@@ -1,2 +1,5 @@
-# rspec_example
-simple rspec example
+# Installing gems
+Run `bundle install`
+
+# Running tests
+Run `rspec`
